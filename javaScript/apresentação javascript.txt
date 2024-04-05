@@ -1,0 +1,6 @@
+const nome = "Feyre Archeron"
+const idade = 2001 - 2024
+const localDeNascimento = "Vila proxima a muralha"
+
+const apresentacao = `meu nome é ${nome}, minha idade é ${idade} anos, na cidade de ${localDeNascimento};`
+console.log(apresentacao);
